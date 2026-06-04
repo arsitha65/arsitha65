@@ -15,11 +15,11 @@
 ## 🏆 Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/earner/earned/badge/3a4fb28f-4e2c-4b9c-8d89-c7accd4c3ede" target="_blank">
+  <a href="https://www.credly.com/earner/earned/badge/575e3d43-0cd7-4d36-b964-7c1acf0c1435" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="200" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
+  <a href="https://www.credly.com/earner/earned/badge/3a4fb28f-4e2c-4b9c-8d89-c7accd4c3ede" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="200" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate" />
   </a>
 </p>
