@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arsitha Sathu</h1>
+<h3 align="center">Software Development Engineer | Full Stack & Cloud-Native Developer</h3>
 
-<!--
-**arsitha65/arsitha65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about building scalable, high-performance applications in fintech and enterprise domains using cloud-native tools and AI/ML solutions.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- <a href="#">💼 Portfolio</a> -->
+  <a href="https://www.linkedin.com/in/arsitha28">💼 LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Certifications
+
+<p align="left">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="200" alt="AWS Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
+  &nbsp;&nbsp;
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="200" alt="AWS Solutions Architect Associate" title="AWS Certified Solutions Architect – Associate" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql" />
+</p>
+
+### 🧩 Frontend Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular" />
+</p>
+
+### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" />
+</p>
+
+### 🗄️ Databases & Caching
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github" />
+</p>
+
+### 📊 Monitoring & Messaging
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kafka,grafana" />
+</p>
+
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Embeddings-00897B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:reddy.arsitha1528@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arsitha28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
