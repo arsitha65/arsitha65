@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://arsitha65.github.io/Portfolio/">💼 Portfolio</a>
-  <a href="https://www.linkedin.com/in/arsitha28">💼 LinkedIn</a>
+  <a href="https://arsitha65.github.io/Portfolio/"> Portfolio</a>
+  <a href="https://www.linkedin.com/in/arsitha28"> LinkedIn</a>
 </p>
 
 ---
