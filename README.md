@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arsitha Sathu</h1>
+<h1 align="center">Hi 👋, I'm Arsitha</h1>
 <h3 align="center">Software Development Engineer | Full Stack & Cloud-Native Developer</h3>
 
 <p align="center">
